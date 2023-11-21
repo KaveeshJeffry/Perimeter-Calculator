@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PerimeterCalculator" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:windowBackground">@drawable/back1</item>
+        <item name="fontFamily">@font/console</item>
+        <item name="android:textSize">15dp</item>
+
+    </style>
+</resources>
